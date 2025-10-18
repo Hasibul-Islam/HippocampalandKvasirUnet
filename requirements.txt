@@ -1,0 +1,11 @@
+# === PyTorch Nightly (install manually) ===
+# pip install --pre torch torchvision --index-url https://download.pytorch.org/whl/nightly/cu128
+
+# === Other dependencies ===
+albumentations>=1.4.0
+opencv-python>=4.10.0
+numpy>=1.24.0
+scikit-learn>=1.5.0
+tqdm>=4.66.0
+scikit-image
+scipy

@@ -1,0 +1,87 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+
+# ===== Virtual Environment =====
+venv/
+.env/
+env/
+.venv/
+hippocampal/
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Checkpoints / Models =====
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+runs/
+logs/
+outputs/
+
+
+# ===== Data =====
+data/raw/
+data/interim/
+data/processed/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# If you keep images and masks locally but not in Git:
+data/
+
+# ===== Notebooks =====
+*.ipynb_checkpoints/
+
+# ===== Cache / Temporary =====
+__cache__/
+.cache/
+tmp/
+temp/
+*.tmp
+
+# ===== Colab / Google Drive =====
+*.gdrive
+/content/
+drive/
+gdrive/
+
+# ===== OS-Specific =====
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# ===== Python Packaging =====
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== Logs =====
+*.log
+*.out
+*.err
+
+# ===== Results =====
+results/*
+!results/.gitkeep
+
+# ===== Saved Models =====
+
+saved_models/*
+!saved_models/.gitkeep
