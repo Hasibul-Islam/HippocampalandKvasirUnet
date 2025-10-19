@@ -1,7 +1,7 @@
 import os
 
-IMAGE_DIR = "neun_dataset_images"
-MASK_DIR = "neun_dataset_masks"
+IMAGE_DIR = "C:\\PythonProjects\\PersonalProjects\\PiashVai\\HippoCampal\\data\\Hippocampal Region Segmentation Dataset-selected\\Cohort1-NeuN Dataset\\neun_dataset_images"
+MASK_DIR = "C:\\PythonProjects\\PersonalProjects\\PiashVai\\HippoCampal\\data\\Hippocampal Region Segmentation Dataset-selected\\Cohort1-NeuN Dataset\\neun_dataset_masks"
 
 MODEL_PATH = "saved_models/unet_bestCohortNeuN.pth"
 

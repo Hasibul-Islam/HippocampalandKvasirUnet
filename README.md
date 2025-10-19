@@ -1,6 +1,6 @@
 # 🧩 UNet Image Segmentation Project
 
-A clean and modular PyTorch implementation of **UNet** for [Hippocampal!](https://rutgers.box.com/v/HippocampalROISegDataset) image segmentation.  And also Implementation on [Kvasir!](https://www.kaggle.com/datasets/debeshjha1/kvasirseg?resource=download). Dataset. 
+A clean and modular PyTorch implementation of **UNet** for [Hippocampal](https://rutgers.box.com/v/HippocampalROISegDataset) image segmentation.  And also Implementation on [Kvasir](https://www.kaggle.com/datasets/debeshjha1/kvasirseg?resource=download). Dataset. 
 
 
 ---
@@ -284,10 +284,11 @@ model.load_state_dict(torch.load("unet_best.pth"))
 ## 🧠 Author Notes
 
 Md Hasibul Islam
+
 MSc. Automotive Software Engineering, TU Chemnitz
 
 - Code and Dataset is used for research work
-- Original Dataset Collected from [Mehedi Azim!](https://github.com/MehediAzim)
+- Original Dataset Collected from [Mehedi Azim](https://github.com/MehediAzim)
 
 ---
 

@@ -1,7 +1,7 @@
 import os
 
-IMAGE_DIR = "images"
-MASK_DIR = "masks"
+IMAGE_DIR = "C:\\PythonProjects\\PersonalProjects\\PiashVai\\KvasirSeg\\Kvasir-SEG\\Kvasir-SEG\\images"
+MASK_DIR = "C:\\PythonProjects\\PersonalProjects\\PiashVai\\KvasirSeg\\Kvasir-SEG\\Kvasir-SEG\\masks"
 
 MODEL_PATH = "saved_models/unet_bestKvasir.pth"
 

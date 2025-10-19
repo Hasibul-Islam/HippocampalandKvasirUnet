@@ -1,7 +1,7 @@
 import os
 
-IMAGE_DIR = "Images_c1_c2_660"
-MASK_DIR = "Masks_c1_c2_660"
+IMAGE_DIR = "C:\\PythonProjects\\PersonalProjects\\PiashVai\\HippoCampal\\data\\Hippocampal Region Segmentation Dataset-selected\\Extended Multiplexed Dataset\\Images_c1_c2_660"
+MASK_DIR = "C:\\PythonProjects\\PersonalProjects\\PiashVai\\HippoCampal\\data\\Hippocampal Region Segmentation Dataset-selected\\Extended Multiplexed Dataset\\Masks_c1_c2_660"
 
 MODEL_PATH = "saved_models/unet_bestExtended.pth"
 
